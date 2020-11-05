@@ -12,6 +12,7 @@
 node_modules/
 docs/
 dist/
+dist_old/
 .tmp/
 
 # OS or Editor folders
